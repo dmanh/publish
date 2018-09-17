@@ -1,0 +1,33 @@
+---
+title: "Flow Of Modern Data, Intelligence & Knowledge"
+subtitle: "Or the story of how messy information could get"
+author: "Manh NGUYEN, VnInfo"
+date: "20 September 2018"
+output: 
+  beamer_presentation:
+    toc: true
+    slide_level: 2
+header-includes:
+  - \usepackage[utf8]{inputenc}
+  - \usepackage[T5]{fontenc}
+---
+
+# Introduction and Motivation 
+## Introduction 
+
+* Your profiles ? A little survey to start
+* My profile: 
+    - Maths & Engineer background 
+    - 4 years in Economic & Finance Studies 
+    - 3 years as Data Scientist 
+    - Still not a specialist Data Scientist, good enough to get more specialised
+
+## Context and Motivation 
+
+* The context: 
+    - Data, Intelligence, Knowledge, Insights, etc are forms of information
+    - The current digital revolution has changed the landscape of these values. They happen to co-exist more and more inside a business unit. 
+    - The data asset has become more and more messy. 
+* The motivation:
+    - A try to make the data portfolio less messy and more structured 
+    - A plan allowing us to predict future trends 
