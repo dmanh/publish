@@ -34,7 +34,15 @@ header-includes:
     - A data-centric discussion about data assets, applications and the business 
     - A look in the past, the present to look further into the future 
     
-# The digital portfolio structure 
+# The data portfolio structure
+## data-centric vs model-centric
+![data-centric vs model-centric](./pngs/data_model.png)
+
+* Models are more useful for humans than data. We teach models, theories and not data. 
+* When new data are like old data, use current models instead. When not, develop new models. 
+* Data-centric dominates model-centric each time there is an explosion of new data: 
+    - Telescope invention with Copernicus, Galileo, Kepler and Newton
+
 ## The data assets
 
 * Data as in IT which is almost everything:  
