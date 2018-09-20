@@ -67,7 +67,7 @@ header-includes:
     - Different models developed for each type of data. No free-lunch theorem. 
 * An application is various relevant models in production to serve some **business goals** (KPI)
 * Old model versus modern model 
-
+* Big challenge for the business to manage the data, models (applications) assets. 
 
 ## The data-centric making of an application
 
