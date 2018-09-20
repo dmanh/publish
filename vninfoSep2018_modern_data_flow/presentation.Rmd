@@ -34,7 +34,7 @@ header-includes:
     - A data-centric discussion about data assets, applications and the business 
     - A look in the past, the present to look further into the future 
     
-# The data portfolio structure
+# The digital assets and the business 
 ## data-centric is dominating model-centric
 ![data-centric vs model-centric](./pngs/data_model.png)
 
@@ -105,4 +105,5 @@ header-includes:
 ## What we are heading to then ? 
 
 * Humans and machines collaboration to serve the human society
+* The current digital revolution is not the first big data revolution. There has been a lot in the past. The only thing is that almost everything now flows digitally 
 
