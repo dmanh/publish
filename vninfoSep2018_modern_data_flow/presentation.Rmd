@@ -1,6 +1,6 @@
 ---
-title: "The flow of digital assets"
-subtitle: "Data, Insights, Intelligence, Knowledge"
+title: "The modern data flow"
+subtitle: "Data, Applications & the Business"
 author: "Manh NGUYEN, VnInfo"
 date: "20 September 2018"
 output: 
@@ -24,16 +24,18 @@ header-includes:
 
 ## Context and Motivation 
 
-* The context: 
-    - Data, Intelligence, Knowledge, Insights, etc are all forms of information
-    - The digital revolution has changed the landscape of these *digital assets*: 
-        - More tangible, more intergrated, more interactive and more messy
-* The motivation:
-    - Discussion to better structure the digital portfolio
-    - Discussion about the job landscape changing with the associated digital assets 
+* **The context**: The digital revolution has been changing the landscape of our society
+    - Information versus Data
+    - Digitalisation Process: Smartphones, Social Networks & IoTs
+    - **Humans** and **Machines** together
+    - New jobs and old jobs evolving: Business Analyst, BI, Data Engineers, Data Architect, Data Scientist, Data Analyst etc
+    - Transition from model-centric to data-centric 
+* **The motivation**:
+    - A data-centric discussion about data assets, applications and the business 
+    - A look in the past, the present to look further into the future 
     
 # The digital portfolio structure 
-## The digital assets (data)
+## The data assets
 
 * Data as in IT which is almost everything:  
     - Big data with the 4Vs: volume, variety, veracity and velocity
@@ -88,5 +90,6 @@ header-includes:
 # Conclusion 
 ## What we are heading to then ? 
 
-* Humans and machines collaboration to serve human society 
+* Humans and machines collaboration to serve human society
+* Human as a social animal  
 
