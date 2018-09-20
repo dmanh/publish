@@ -1,6 +1,6 @@
 ---
-title: "Flow Of Modern Data, Intelligence & Knowledge"
-subtitle: "Or the story of how messy information could get"
+title: "The flow of digital assets"
+subtitle: "Data, Insights, Intelligence, Knowledge"
 author: "Manh NGUYEN, VnInfo"
 date: "20 September 2018"
 output: 
@@ -25,9 +25,68 @@ header-includes:
 ## Context and Motivation 
 
 * The context: 
-    - Data, Intelligence, Knowledge, Insights, etc are forms of information
-    - The current digital revolution has changed the landscape of these values. They happen to co-exist more and more inside a business unit. 
-    - The data asset has become more and more messy. 
+    - Data, Intelligence, Knowledge, Insights, etc are all forms of information
+    - The digital revolution has changed the landscape of these *digital assets*: 
+        - More tangible, more intergrated, more interactive and more messy
 * The motivation:
-    - A try to make the data portfolio less messy and more structured 
-    - A plan allowing us to predict future trends 
+    - Discussion to better structure the digital portfolio
+    - Discussion about the job landscape changing with the associated digital assets 
+    
+# The digital portfolio structure 
+## The digital assets (data)
+
+* Data as in IT which is almost everything:  
+    - Big data with the 4Vs: volume, variety, veracity and velocity
+    - Structured vs Non-structured or SQL vs No-SQL database or CSV vs JSON 
+    - Good quality and bad quality 
+    - Machine friendly vs human friendly
+    - Raw data vs distilled data (most of the time aggregated data)
+    - Internal vs external or private vs open data 
+    - Storage, Extraction, Search, Data Mining, Data Science
+* Of course, there are still a lot of information which has not appeared as IT data form, so out of IT reach 
+
+## Digital assets (intelligence)
+
+* Intelligence is the information whose value lies between data and knowledge. Intelligence is a bit of information by processing data locally. It is actionable but might not able to apply more broadly as knowledge
+* Intelligence as Machine Learning Model 
+
+
+## Digital assets (knowledge)
+
+* Knowledge is a bit of information after processing data across larger domains and through larger time frames. Think of knowledge as scientific knowledge 
+
+
+## The evolution of digital assets 
+
+
+* More tangible 
+* More intergrated 
+* More interactive 
+* More messy 
+    
+## Some historical perspectives 
+
+* The whole flow of information processing is not new: 
+    - Story about Copernicus, Galileo, Kepler and Newton: with the telescope and gravitational theory 
+    - Or Gutenberg with the invention of the printer
+    - etc 
+* All information now just flows through digital means. Machines are computers, CPU, GPU. 
+    
+## The flow of digital assets 
+
+
+## The different corresponding jobs 
+
+* Data engineer 
+* Data admin
+* Data architect
+* Data scientist
+* Data analyst 
+* Business Analyst 
+* Project manager 
+
+# Conclusion 
+## What we are heading to then ? 
+
+* Humans and machines collaboration to serve human society 
+
