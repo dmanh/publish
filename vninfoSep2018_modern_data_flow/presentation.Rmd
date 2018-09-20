@@ -35,7 +35,7 @@ header-includes:
     - A look in the past, the present to look further into the future 
     
 # The data portfolio structure
-## data-centric vs model-centric
+## data-centric is dominating model-centric
 ![data-centric vs model-centric](./pngs/data_model.png)
 
 * Models are more useful for humans than data. We teach models, theories and not data. 
@@ -55,35 +55,40 @@ header-includes:
     - Storage, Extraction, Search, Data Mining, Data Science
 * Of course, there are still a lot of information which has not appeared as IT data form, so out of IT reach 
 
-## Digital assets (intelligence)
+## The model and application assets
 
-* Intelligence is the information whose value lies between data and knowledge. Intelligence is a bit of information by processing data locally. It is actionable but might not able to apply more broadly as knowledge
-* Intelligence as Machine Learning Model 
+* Different kinds of models: 
+    - Learning models: non-supervised, supervised, reinforcement learning 
+    - Expert models
+    - Mixing learning and expert models 
+    - Mathematical formula versus trained models (~ applications)
+    - Human friendly models versus black-box models 
+    - Stability of models
+    - Different models developed for each type of data. No free-lunch theorem. 
+* An application is various relevant models in production to serve some **business goals** (KPI)
+* Old model versus modern model 
 
 
-## Digital assets (knowledge)
+## The data-centric making of an application
 
-* Knowledge is a bit of information after processing data across larger domains and through larger time frames. Think of knowledge as scientific knowledge 
+* Actors: data engineers, data admin, data scientists & business leader 
+* Steps: 
+    1. Defining the business goals and the data scope 
+    2. Gathering data & preparing data 
+    3. Designing & training of different learning models 
+    4. Packing good models into one great solution 
+    5. Implementation of the solution in production
+    6. Business validation
+    7. Monitoring data & models in production, creatin the re-training process 
+    8. Deploying the application 
 
 
-## The evolution of digital assets 
-
+## The digitalisation process 
 
 * More tangible 
 * More intergrated 
 * More interactive 
-* More messy 
-    
-## Some historical perspectives 
-
-* The whole flow of information processing is not new: 
-    - Story about Copernicus, Galileo, Kepler and Newton: with the telescope and gravitational theory 
-    - Or Gutenberg with the invention of the printer
-    - etc 
-* All information now just flows through digital means. Machines are computers, CPU, GPU. 
-    
-## The flow of digital assets 
-
+* More complex
 
 ## The different corresponding jobs 
 
@@ -93,11 +98,11 @@ header-includes:
 * Data scientist
 * Data analyst 
 * Business Analyst 
-* Project manager 
+* Project manager
+* etc 
 
 # Conclusion 
 ## What we are heading to then ? 
 
-* Humans and machines collaboration to serve human society
-* Human as a social animal  
+* Humans and machines collaboration to serve the human society
 
